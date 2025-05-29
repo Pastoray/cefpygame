@@ -1,0 +1,3 @@
+[MASTER]
+# Add modules to ignore missing members from C-extensions.
+extension-pkg-whitelist=cefpython3,pygame
